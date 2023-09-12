@@ -1,6 +1,6 @@
 <?php 
-$name  = 'Ivy';
-$price = 5;
+$name  = 'Josmi';
+$price = 26;
 ?>
 <!DOCTYPE html>
 <html>
